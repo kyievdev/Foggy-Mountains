@@ -4,7 +4,7 @@
 A custom Theme that changes the Aliucord client to look a bit more "cozy and calm" for the user (doesn't add any new features)
 
 
-### Specially Made by vendicateddev (not the other vendicated which made the themer plugin I'm not them)
+### Made by kyiev.dev (kyiev)
 
 
 
